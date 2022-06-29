@@ -1,0 +1,20 @@
+.estilo__botao {
+    background: #2f5a8d;
+    border: none;
+    border-radius: 5px;
+    color: #FDFDFD;
+    padding: 1rem;
+    transition: all .1s ease-in-out;
+    align-content: center;
+    width: 100%;
+    font-size: 30px;
+    font-family: Satisfy;
+   
+}
+
+.estilo__botao:hover {
+    cursor: pointer;
+    background: #000000;
+    
+
+}

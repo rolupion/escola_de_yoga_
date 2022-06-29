@@ -1,0 +1,27 @@
+.cabecalho {
+    align-items: center;
+    background-color: #e9e9e6;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 2rem;
+    padding-right: 2rem;
+
+}
+
+.logo {
+    width: 7%;
+    border-radius: 100%;
+}
+
+@media screen and (min-width: 0){
+    .logo {
+        justify-content: center;
+        padding: 0 1rem;
+    }
+}
+
+@media screen and (min-width: 768px){
+    .logo{
+        display: block;
+    }
+}

@@ -1,0 +1,9 @@
+.menu__item {
+    list-style: none;
+    font-family: Montserrat;
+    font-weight: bold;
+}
+
+.menu__item:last-child menu-link {
+    margin-right: 0;
+}
